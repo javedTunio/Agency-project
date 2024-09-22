@@ -1,0 +1,22 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+html {
+  font-family: "Outfit", sans-serif;
+  
+}
+
+/* "customAnimate " => use this class to animate element */
+.customFadeIn {
+  transform: translateY(0);
+  opacity: 1;
+  transition: all 0.5s ease-in-out;
+}
+.customFadeOut {
+  transform: translateY(20%);
+  opacity: 0;
+  transition: all 0.5s ease-in-out;
+}
