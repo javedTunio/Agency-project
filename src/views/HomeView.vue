@@ -63,7 +63,7 @@
         <div class="customAnimate flex items-center">
           <!-- img -->
           <div class="relative w-fit">
-            <img class="block h-[90px] w-[90px] object-cover object-top rounded-full" src="../assets/images/founder.jpg"
+            <img class="block h-[90px] w-[90px] object-cover object-top rounded-full" src="/images/founder.webp"
               alt="founder of website" />
             <div
               class="absolute bottom-0 right-0 bg-clr-accent size-[30px] rounded-full flex items-center justify-center">
@@ -84,7 +84,7 @@
       </div>
       <!-- image side -->
       <div class="customAnimate w-full lg:w-2/5">
-        <img class="block lg:p-2" src="../assets/images/photo-1.jpg" alt="first section image" />
+        <img class="block lg:p-2" src="/images/photo-1.webp" alt="first section image" />
       </div>
     </div>
   </section>
@@ -105,7 +105,7 @@
         <div class="customAnimate flex items-center justify-center gap-8">
           <!-- image capsule -->
           <div class="h-20 w-[250px] rounded-full overflow-hidden hidden md:block">
-            <img class="block w-full hover:scale-105 duration-500" src="../assets/images/photo-2.jpg" alt="" />
+            <img class="block w-full hover:scale-105 duration-500" src="/images/photo-2.webp" alt="" />
           </div>
           <!-- heading -->
           <div>
@@ -269,7 +269,7 @@
           <div
             class="customAnimate relative w-full xl:w-[267px] h-auto xl:h-[330px] object-cover object-top overflow-hidden group">
             <img class="block w-full scale-105 group-hover:scale-100 duration-500 z-10"
-              src="../assets/images/faces-1.jpg" alt="" />
+              src="/images/faces-1.webp" alt="" />
             <div
               class="absolute top-0 bottom-0 left-0 right-0 bg-black opacity-70 duration-500 hidden group-hover:flex flex-col items-center justify-end z-10">
               <div class="opacity-100 text-clr-white text-center mb-8">
@@ -283,7 +283,7 @@
           <!-- image -->
           <div
             class="customAnimate relative w-full xl:w-[267px] h-auto xl:h-[330px] object-cover object-top overflow-hidden group">
-            <img class="block w-full scale-105 group-hover:scale-100 duration-500" src="../assets/images/faces-2.jpg"
+            <img class="block w-full scale-105 group-hover:scale-100 duration-500" src="/images/faces-2.webp"
               alt="" />
             <div
               class="absolute top-0 bottom-0 left-0 right-0 bg-black opacity-70 duration-500 hidden group-hover:flex flex-col items-center justify-end">
@@ -304,7 +304,7 @@
           <!-- image -->
           <div
             class="customAnimate relative w-full xl:w-[267px] h-auto xl:h-[330px] object-cover object-top overflow-hidden group">
-            <img class="block w-full scale-105 group-hover:scale-100 duration-500" src="../assets/images/faces-3.jpg"
+            <img class="block w-full scale-105 group-hover:scale-100 duration-500" src="/images/faces-3.webp"
               alt="" />
             <div
               class="absolute top-0 bottom-0 left-0 right-0 bg-black opacity-70 duration-500 hidden group-hover:flex flex-col items-center justify-end">
@@ -319,7 +319,7 @@
           <!-- image -->
           <div
             class="customAnimate relative w-full xl:w-[267px] h-auto xl:h-[330px] object-cover object-top overflow-hidden group">
-            <img class="block w-full scale-105 group-hover:scale-100 duration-500" src="../assets/images/faces-4.jpg"
+            <img class="block w-full scale-105 group-hover:scale-100 duration-500" src="/images/faces-4.webp"
               alt="" />
             <div
               class="absolute top-0 bottom-0 left-0 right-0 bg-black opacity-70 duration-500 hidden group-hover:flex flex-col items-center justify-end">
@@ -386,7 +386,7 @@
           <RouterLink to="" class="block w-full group">
             <div class="w-full overflow-hidden mb-8">
               <img class="customAnimate block w-full group-hover:scale-110 duration-500"
-                src="../assets/images/blog-8.jpg" alt="blog image" />
+                src="/images/blog-8.webp" alt="blog image" />
             </div>
             <div class="">
               <div class="customAnimate text-fs-small font-medium mb-8">
@@ -418,7 +418,7 @@
           <RouterLink to="" class="block w-full group">
             <div class="w-full overflow-hidden mb-8">
               <img class="customAnimate block w-full group-hover:scale-110 duration-500"
-                src="../assets/images/blog-7.jpg" alt="blog image" />
+                src="/images/blog-7.webp" alt="blog image" />
             </div>
             <div class="">
               <div class="customAnimate text-fs-small font-medium mb-8">

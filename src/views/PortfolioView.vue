@@ -44,7 +44,7 @@
           <RouterLink to="" class="block w-full group">
             <div class="w-full overflow-hidden mb-8 h-[620px]">
               <img class="customAnimate block h-full object-cover group-hover:scale-110 duration-500"
-                src="../assets/images/project-1.jpg" alt="blog image" />
+                src="/images/project-1.webp" alt="blog image" />
             </div>
             <div>
               <div class="customAnimate text-fs-small font-medium mb-4">
@@ -62,7 +62,7 @@
           <RouterLink to="" class="block w-full group">
             <div class="w-full overflow-hidden mb-8">
               <img class="customAnimate block w-full group-hover:scale-110 duration-500"
-                src="../assets/images/project-2.jpg" alt="blog image" />
+                src="/images/project-2.webp" alt="blog image" />
             </div>
             <div>
               <div class="customAnimate text-fs-small font-medium mb-4">
@@ -83,7 +83,7 @@
           <RouterLink to="" class="block w-full group">
             <div class="w-full overflow-hidden mb-8">
               <img class="customAnimate block w-full group-hover:scale-110 duration-500"
-                src="../assets/images/project-3.jpg" alt="blog image" />
+                src="/images/project-3.webp" alt="blog image" />
             </div>
             <div>
               <div class="customAnimate text-fs-small font-medium mb-4">
@@ -101,7 +101,7 @@
           <RouterLink to="" class="block w-full group">
             <div class="w-full overflow-hidden mb-8 h-[820px] lg:h-[620px]">
               <img class="customAnimate block w-full h-full object-cover group-hover:scale-110 duration-500"
-                src="../assets/images/project-4.jpg" alt="blog image" />
+                src="/images/project-4.webp" alt="blog image" />
             </div>
             <div class="w-full lg:w-2/5 py-4">
               <div class="customAnimate text-fs-small font-medium mb-4">
@@ -122,7 +122,7 @@
           <RouterLink to="" class="block w-full group">
             <div class="w-full overflow-hidden mb-8 h-[620px]">
               <img class="customAnimate block h-full object-cover group-hover:scale-110 duration-500"
-                src="../assets/images/project-5.jpg" alt="blog image" />
+                src="/images/project-5.webp" alt="blog image" />
             </div>
             <div>
               <div class="customAnimate text-fs-small font-medium mb-4">
@@ -140,7 +140,7 @@
           <RouterLink to="" class="block w-full group">
             <div class="w-full overflow-hidden mb-8">
               <img class="customAnimate block w-full group-hover:scale-110 duration-500"
-                src="../assets/images/project-6.jpg" alt="blog image" />
+                src="/images/project-6.webp" alt="blog image" />
             </div>
             <div>
               <div class="customAnimate text-fs-small font-medium mb-4">
